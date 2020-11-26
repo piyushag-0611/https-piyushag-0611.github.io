@@ -1,16 +1,18 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why you should visit this website
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Piyush Agarwal. 
+I am a third year undergrad at Department of Mathematics, IIT Bombay.
+I will put up some tools to calculate a few stuff.
+I want to put things related 
 
-- I rock a great mustache
-- I'm extremely loya to my family
+-calculating the Jacobian form of a matrix
+-Legendre Symbol of an integer in Z_p
+-Continued Fraction Representation of a real no.
 
-What else do you need?
+Apart from that I wrote a lot during the lockdown, that would be up.
+Things related to finance as well.
 
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
