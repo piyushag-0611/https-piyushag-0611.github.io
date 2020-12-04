@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Poems
-subtitle: Ya, one a prize for that.
+subtitle: Ya, won a prize for that.
 tags: [poems]
 ---
 If my father was a poet and a morning walker, what he would have said to my mother.
