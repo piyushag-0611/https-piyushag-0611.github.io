@@ -13,3 +13,5 @@ Today, I tried out implementing graphs using adjacency list and checking whether
 a simple matrix or not.  
 
 I have completing writing down the code and also completed finding out no. of edges in the graph and deg. of each vertex. 
+
+Today, I will be writing down code for checking whether a graph is bipartite and also implementing BFS(Breadth-First-Search)
