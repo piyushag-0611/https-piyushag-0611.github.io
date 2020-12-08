@@ -3,6 +3,7 @@ layout: post
 title: Short-Film Script
 subtitle: Guilty
 tags: [films]
+gh-repo: daattali/beautiful-jekyll
 comments: true
 ---
 
