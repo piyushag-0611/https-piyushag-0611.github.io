@@ -16,4 +16,9 @@ I have completing writing down the code and also completed finding out no. of ed
 
 Today, I will be writing down code for checking whether a graph is bipartite and also implementing BFS(Breadth-First-Search)
 
-Yeee, I have completed writing down the verification of the bipartite graph and guess what its quite similar to the 
+Yeee, I have completed writing down the verification of the bipartite graph and guess what its quite similar to the BFS.
+
+Also, I have finished writing down the code for counting the no. of connected components, again it uses the same old BFS technique.
+
+Our BFS is a very powerful tool and can be used in lots of cases.
+
