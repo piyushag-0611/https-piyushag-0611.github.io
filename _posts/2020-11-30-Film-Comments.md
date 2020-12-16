@@ -8,7 +8,7 @@ tags: [films]
 Hera Pheri
 
 I didn’t think of the title before I saw the film and now I realize the aptness of the title with the events that have unfolded.
-![graph](https://github.com/piyushag0611/piyushag0611.github.io/blob/master/largenolog.png)
+![graph](https://github.com/piyushag0611/piyushag0611.github.io/blob/master/largenolog.png/)
 We see a mismatch, a ‘herpher’ which is the central plot of the film. 
 
 I felt that the narrative was well structured, simple and logical with all motivations firmly 
