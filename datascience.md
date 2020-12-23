@@ -33,4 +33,4 @@ plt.plot(list_in_log,ratio_of_tails)
 You can see how as no. of tosses increase the experimental probability of heads goes to 0.5
 
 ## An interesting Problem
-Given a random number generator which follows the uniform distribution, can you determine **pi** out of it?
+Given a random number generator which follows the uniform distribution, can you determine the value of **pi** ?
