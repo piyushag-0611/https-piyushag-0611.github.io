@@ -115,8 +115,15 @@ footer-link-col: "#404040"
 #  - "/assets/css/custom-styles.css"
 
 # If you have common JavaScript files that should be included in every page, list them here
-#site-js:
-#  - "/assets/js/custom-script.js"
+site-js:
+  - "/assets/js/custom-script.js"
+  <script src="https://utteranc.es/client.js"
+        repo="piyushag0611.github.io"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 
 # --- Web Analytics Section --- #
 
