@@ -3,6 +3,7 @@ layout: post
 title: Has Financial Developments made the world Riskier
 subtitle: by Dr Raghuram Rajan
 tags: [books, test]
+comments:true
 ---
 
 This paper was written for a lecture in 2005 preceding the financial Crisis of 07-08.
