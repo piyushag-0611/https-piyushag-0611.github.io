@@ -117,14 +117,6 @@ footer-link-col: "#404040"
 # If you have common JavaScript files that should be included in every page, list them here
 site-js:
   - "/assets/js/custom-script.js"
-  <script src="https://utteranc.es/client.js"
-        repo="piyushag0611.github.io"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
-
 # --- Web Analytics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
@@ -159,7 +151,7 @@ disqus: "https-piyushag0611-github-io"
 utterances:
 repository: piyushag0611 # GitHub username/repository eg. "daattali/beautiful-jekyll"
 issue-term: title   # Mapping between blog posts and GitHub issues
-theme: github-light # Utterances theme
+theme: github-merlot # Utterances theme
 label: blog-comments # Label that will be assigned to GitHub Issues created by Utterances
 
 # To use Staticman comments, first invite `staticmanlab` as a collaborator to your repository and
