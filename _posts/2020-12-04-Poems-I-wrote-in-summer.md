@@ -3,6 +3,7 @@ layout: post
 title: Poems
 subtitle: Ya, won a prize for that.
 tags: [poems]
+comments: true
 ---
 If my father was a poet and a morning walker, what he would have said to my mother.
 
