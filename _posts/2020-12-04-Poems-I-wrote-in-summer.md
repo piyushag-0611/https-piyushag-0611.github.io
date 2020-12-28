@@ -17,7 +17,7 @@ Overcome all of my limitations, forget all worries and surpass all pains.<br/>
 Just like the silent flapping helps the pigeon<br/>
 Fly high & above and even get down to rest,<br/>
 The silence in your voice has allowed me both<br/>
-Rise high with respect and to remain grounded & low.
+Rise high with respect and remain grounded & low.
 
 
 Just like the sweet whistles and the humming vibrations<br/>
