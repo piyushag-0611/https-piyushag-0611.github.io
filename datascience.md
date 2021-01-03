@@ -28,7 +28,7 @@ plt.plot(list_in_log,ratio_of_tails)
 
 ~~~
 
-![post](https://github.com/piyushag0611/piyushag0611.github.io/blob/master/largenolog.png)
+![post](https://i.imgur.com/7wdNqcV.jpg)
 
 You can see how as no. of tosses increase the experimental probability of heads goes to 0.5
 
