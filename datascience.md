@@ -35,4 +35,27 @@ Given a random number generator which follows the uniform distribution, can you 
 
 Let me put out the solution.
 
-The idea is to generate points and find out the fraction of points lying inside the unit square if our total set of points is the unit circle.<br>
+The idea is to generate points and find out the fraction of points lying inside the half square if our total set of points is the unit circle.<br>
+
+~~~
+#determing pi
+#Generating 10000 points.
+import random
+import matplotlib.pyplot as plt
+list =[]
+for i in range(100):
+    points_in_circle=0
+    points_in_square=0
+    for i in range(10000):
+        x=random.random()
+        y=random.random()
+        if x*x+y*y<1:
+            points_in_circle = points_in_circle+1
+        if x<0.5 and y<0.5:
+            points_in_square = points_in_square+1
+    list.append(points_in_circle/points_in_square)
+plt.plot(list)
+~~~
+![post](https://i.imgur.com/bUR8FFe.png)
+This depicts the values of **pi** that I got using the above method. Ok, correct to two significant digits only but still. :p
+
