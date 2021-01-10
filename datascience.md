@@ -3,7 +3,7 @@ layout: page
 title: Data_Science
 subtitle: Foundations of Data Science by Avrim Blum, John Hopcroft and Ravindra Kannan
 ---
-I have taken up a SLP Project for the next semester under my Prof. Niranjan Balachandran who has motivated me to read this book(name in the subtitle :P).
+I have taken up a SLP Project for this semester under **Prof. Niranjan Balachandran** who has motivated me to read this book(name in the subtitle :p).
 So I want to upload regularly on this page whatever experiments I carry out on this and have a good learning experience.
 
 The first thing was the Law of Large Numbers, the proof is easy but what I think can make a general audience interested are illustrations. So I wrote down two python codes illustrating the Law of Large Numbers.
@@ -32,3 +32,7 @@ You can see how as no. of tosses increase the experimental probability of heads 
 
 ## An interesting Problem
 Given a random number generator which follows the uniform distribution, can you determine the value of **pi** ?
+
+Let me put out the solution.
+
+The idea is to generate points and find out the fraction of points lying inside the unit square if our total set of points is the unit circle.<br>
