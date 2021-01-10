@@ -57,5 +57,6 @@ for i in range(100):
 plt.plot(list)
 ~~~
 ![post](https://i.imgur.com/bUR8FFe.png)
+
 This depicts the values of **pi** that I got using the above method. Ok, correct to two significant digits only but still. :p
 
