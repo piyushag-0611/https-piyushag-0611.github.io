@@ -7,7 +7,7 @@ I have taken up a SLP Project for this semester under **Prof. Niranjan Balachand
 So I want to upload regularly on this page whatever experiments I carry out on this and have a good learning experience.
 
 ## Law of Large Numbers 
-Consider the case of **heights** of people around the world. If the heights did follow a distribution, then the mean value of the heights of people all around the world would be very close to say the mean of heights of **10000 people**, you were able to collect given that you collected randomly.
+Consider the case of **heights** of people around the world. If the heights did follow a distribution, then the mean value of the heights of people all around the world would be very close to say the mean of heights of **10000 people**, given that you collected the heights randomly.
 
 So How does the **Law of Large Numbers** help, it clearly helps you in getting good estimate of things in which you may have a commercial interest. Say for example Vehicles generally will have the internal dimensions same for the driver's seat and still it works for most people, male or female, short or tall. Consider the case of trousers, there are generally standard sizes, but it works well for most of us. How do we get the idea of what a good measurement is that will work for most people?
 
@@ -68,6 +68,10 @@ plt.plot(list)
 
 This depicts the values of **pi** that I got using the above method. Ok, correct to two significant digits only but still. :p
 
-## Generating Points uniformly at random from a d-dimensional unit sphere
+## Volume of a d-dimensional Unit ball
+
+Surprising
+
+
 
 
