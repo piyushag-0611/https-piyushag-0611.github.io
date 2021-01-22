@@ -6,7 +6,15 @@ subtitle: Foundations of Data Science by Avrim Blum, John Hopcroft and Ravindra 
 I have taken up a SLP Project for this semester under **Prof. Niranjan Balachandran** who has motivated me to read this book(name in the subtitle :p).
 So I want to upload regularly on this page whatever experiments I carry out on this and have a good learning experience.
 
-The first thing was the Law of Large Numbers, the proof is easy but what I think can make a general audience interested are illustrations. So I wrote down two python codes illustrating the Law of Large Numbers.
+## Law of Large Numbers
+The first thing was the Law of Large Numbers, the proof is easy but what I think can make a general audience interested are illustrations. 
+Consider the case of **heights** of people around the world. If the heights did follow a distribution, then the mean value of the heights of people all around the world would be very close to say the mean of heights of **10000 people**, you were able to collect.
+
+So How does the **Law of Large Numbers** help, it clearly helps you in getting good estimate of things in which you may have a commercial interest. Say for example Vehicles generally will have the internal dimensions same for the driver's seat and still it works for most people, male or female, short or tall. Consider the case of trousers, there are generally standard sizes, but it works well for most of us. How do we get the idea of what a good measurement is that will work for most people?
+
+
+
+So I wrote down a python codes illustrating the Law of Large Numbers. Its a simple Head or Tail situation, and as we increase the number of tosses our calculated or experimental mean does go pretty close to 0.5. 
 
 ~~~
 #Demonstrating Law of Large Numbers
@@ -59,4 +67,7 @@ plt.plot(list)
 ![post](https://i.imgur.com/bUR8FFe.png)
 
 This depicts the values of **pi** that I got using the above method. Ok, correct to two significant digits only but still. :p
+
+## Generating Points uniformly at random from a d-dimensional unit sphere
+
 
