@@ -6,5 +6,7 @@ subtitle: I want to talk to people, present my stuff and make consistent progres
 
 My name is Piyush Agarwal. 
 
-I am a first year Master's student now at Simon Fraser University. I am part of the [Magpie Group](https://www.sfu.ca/magpie.html) under [Dr. Cedric Chauve](https://www.sfu.ca/math/people/faculty/cchauve.html) and [Dr. Caroline Colijn](https://www.sfu.ca/math/people/faculty/ccolijn/)
+Current: I am a first year Master's student now at Simon Fraser University. I am part of the [Magpie Group](https://www.sfu.ca/magpie.html) under [Dr. Cedric Chauve](https://www.sfu.ca/math/people/faculty/cchauve.html) and [Dr. Caroline Colijn](https://www.sfu.ca/math/people/faculty/ccolijn/)
+
+
 
