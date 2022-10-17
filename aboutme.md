@@ -1,22 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you should visit this website
+subtitle: I want to talk to people, present my stuff and make consistent progress, which this website will be an evidence of.
 ---
 
 My name is Piyush Agarwal. 
 
-I am a third year undergrad at Department of Mathematics, IIT Bombay.
-
-I will put up some tools to calculate a few stuff.
-
-I want to put things related 
-
-- calculating the Jacobian form of a matrix
-- Legendre Symbol of an integer in Z_p
-- Continued Fraction Representation of a real no.
-
-Apart from that I wrote a lot during the lockdown, that would be up.
-
-Things related to finance as well.
+I am a first year Master's student now at Simon Fraser University. I am part of the [Magpie Group](https://www.sfu.ca/magpie.html) under [Dr. Cedric Chauve](https://www.sfu.ca/math/people/faculty/cchauve.html) and [Dr. Caroline Colijn](https://www.sfu.ca/math/people/faculty/ccolijn/)
 
