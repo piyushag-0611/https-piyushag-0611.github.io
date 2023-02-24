@@ -16,7 +16,7 @@ author: Piyush Agarwal
 navbar-links:
   About Me: "aboutme"
   Research: "research"
-  Misc:
+  Miscellaneous:
     - Coursera-Courses: "coursera"
     - Data_Science: "datascience"
    
