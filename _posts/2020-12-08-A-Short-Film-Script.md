@@ -9,4 +9,4 @@ comments: true
 
 No, its not the Netflix Guilty, its a narration on "Guilt" that I managed to write.
 
-<a href="https://github.com/piyushag0611/piyushag0611.github.io/blob/master/guilty%20(2).pdf">Guilty</a>
+<a href="https://github.com/piyushag0611/piyushag0611.github.io/blob/master/guilty%20(2).pdf" target="_blank">Guilty</a>
