@@ -15,7 +15,8 @@ author: Piyush Agarwal
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Research: "research"
+  Misc:
     - Coursera-Courses: "coursera"
     - Data_Science: "datascience"
    
@@ -41,6 +42,7 @@ round-avatar: true
 social-network-links:
   email: "paa54@sfu.ca"
   instagram: piyushagarwal441
+  linkedin: piyush-agarwal-187bb9223
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -60,7 +62,6 @@ social-network-links:
 
 # If you want to show a link to an RSS in the footer, add the site description here.
 # If you don't want to show an RSS link, remove the following line.
-rss-description: This website is a virtual proof that I'm awesome
 
 # --- General options --- #
 
