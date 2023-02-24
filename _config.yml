@@ -17,7 +17,6 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Coursera-Courses: "coursera"
-    - Graphs: "graphs"
     - Data_Science: "datascience"
    
 
